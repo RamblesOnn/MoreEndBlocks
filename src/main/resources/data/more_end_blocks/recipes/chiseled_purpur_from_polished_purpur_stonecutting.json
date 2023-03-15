@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "more_end_blocks:polished_purpur"
+  },
+  "result": "more_end_blocks:chiseled_purpur",
+  "count": 1
+}
